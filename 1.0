@@ -1,6 +1,0 @@
-int mian{
-  int a;
-  int b;
-  int b=a+b;
-  }
-  
